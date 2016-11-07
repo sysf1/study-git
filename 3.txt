@@ -3,6 +3,9 @@ asdfasdf
 asdfasdfasd
 asdfasdfasdf
 asdfasdfasdf
+<<<<<<< Updated upstream
 asdfasdfasdfasdf
 asdfasdfasdfasdf
 
+=======
+>>>>>>> Stashed changes
